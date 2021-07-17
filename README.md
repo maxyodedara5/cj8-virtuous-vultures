@@ -2,6 +2,8 @@
 
 Theme: Think Inside the Box
 
+The original repo can be found [https://github.com/doublevcodes/inside-the-box](here) if it is made public.
+
 ## Project Details
 
 We are "inside" the box, Rubik's cube to be exact.
