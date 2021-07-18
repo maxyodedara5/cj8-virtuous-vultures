@@ -2,7 +2,7 @@
 
 Theme: Think Inside the Box
 
-The original repo can be found [here](https://github.com/doublevcodes/inside-the-box) if it is made public.
+## The original repo can be found [here](https://github.com/doublevcodes/inside-the-box), now that it is public
 
 ## Project Details
 
