@@ -20,6 +20,11 @@ The theme was inside the box, so we literally (figuratively) placed you inside t
 For running the program blessed library along with standard python is enough. You can install blessed by simply running `pip install blessed`
 
 
+## Current Implementation 
+
+![alt text](./docs/rubiks_cube_internal.jpg)
+
+
 ## What could've been?
 
 If we were vigilant enough we would've made the program so that User when pressed different keys would actually able to manipulate the cube.
